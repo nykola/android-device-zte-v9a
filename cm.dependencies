@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "zte-kernel-msm8x55",
+   "target_path": "kernel/zte/zte-kernel-msm8x55",
+   "branch": "ics"
+ }
+]
